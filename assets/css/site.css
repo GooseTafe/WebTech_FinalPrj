@@ -594,8 +594,16 @@ video {
   margin-bottom: 1.5rem;
 }
 
-.ml-auto {
-  margin-left: auto;
+.ml-10 {
+  margin-left: 2.5rem;
+}
+
+.mr-10 {
+  margin-right: 2.5rem;
+}
+
+.mr-auto {
+  margin-right: auto;
 }
 
 .mt-8 {

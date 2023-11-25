@@ -6,6 +6,7 @@ module.exports = {
     './contact/*.html',
     './resume/*.html',
     './projects/*.html',
+    './projects/phase-5/*.html',
     './example_projects/*.html',
   ],
   theme: {
